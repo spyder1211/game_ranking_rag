@@ -1,0 +1,8 @@
+langserve[server]
+langchain
+langchain-aws
+langchain-community
+langchain-core
+pydantic==1.10.13
+uvicorn
+mangum
