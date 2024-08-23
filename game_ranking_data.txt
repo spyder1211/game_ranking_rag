@@ -1,0 +1,103 @@
+<article>
+<link>https://applion.jp/android/app/com.platinumplayer.word.addict/</link>
+<title>Word Collect - Word Games Fun</title>
+<summary>Word Collect で最高のワードゲームを無料でダウンロード！</summary>
+<publisher>Super Lucky Games LLC</publisher>
+<category>無料 言葉ゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/and.lihuhu.woober/</link>
+<title>Woodber - Classic Number Game</title>
+<summary>Woodber  古典的なナンバーマッチとウッドブロックパズルゲームの完璧な組み合わせ！私たちが子供時代に使ったこの昔ながらの頭脳テスターが、新しい機知に富んだ外観で戻ってきました。</summary>
+<publisher>LIHUHU PTE. LTD.</publisher>
+<category>無料 パズルゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.gamincat.roomsort/</link>
+<title>ルームソート - 間取り図ゲーム</title>
+<summary>敷地内にリビングやベッドルームなどを配置して、間取り図を作り上げる、ホームデザイン型図形パズルゲーム。</summary>
+<publisher>Gamincat</publisher>
+<category>無料 パズルゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.igg.android.doomsdaylastsurvivors/</link>
+<title>ドゥームズデイ：ラストサバイバー</title>
+<summary>ゾンビが溢れかえった近未来で、生存者が住むシェルターを守るため戦う、ディフェンスリアルタイムストラテジー。</summary>
+<publisher>IGG.COM</publisher>
+<category>無料 ストラテジーゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.miniclip.eightballpool/</link>
+<title>8 Ball Pool</title>
+<summary>オンラインのプレイヤーと、ビリヤードの8ボールが楽しめる、対戦ビリヤードゲーム。</summary>
+<publisher>Miniclip.com</publisher>
+<category>無料 スポーツゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/ball.sort.color.water.puzzle.games/</link>
+<title>Ball Sort</title>
+<summary>Ball Sort Puzzle は、ボールを並べ替えるカラーソートゲームです。</summary>
+<publisher>Solitaire Card Studio</publisher>
+<category>無料 パズルゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.gplay.annoying.puzzle.game/</link>
+<title>Annoying Puzzle Game</title>
+<summary>Annoying Puzzle Gameは、プレイヤーが簡単なものから挑戦的なものまで様々なパズルを解決する、魅力的で精神的に刺激的なゲームです。</summary>
+<publisher>GPLAY JSC</publisher>
+<category>無料 パズルゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.atknsyl.weaponmaster/</link>
+<title>Weapon Master：銃撃走攻</title>
+<summary>ウェポンマスター：銃撃走攻で銃のスリリングな世界に飛び込もう！銃撃走攻の興奮と、武器の製造と進化の戦略的な深さを見事に融合させたアクション満載のゲーム。</summary>
+<publisher>Homa</publisher>
+<category>無料 アクションゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.easygames.race/</link>
+<title>レースマスター 3D (Race Master 3D)</title>
+<summary>車をカスタマイズして、巨大穴があるようなアクロバティックなコースを、ワイルドに走り抜ける、3Dレースゲーム。</summary>
+<publisher>SayGames Ltd</publisher>
+<category>無料 レースゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.gameloft.android.ANMP.GloftDMHM/</link>
+<title>ミニオンラッシュ：ﾗﾝﾆﾝｸﾞｹﾞｰﾑ</title>
+<summary>走るキャラクターミニオンを操作して、ひたすら走る無限ランアクションゲーム。</summary>
+<publisher>Gameloft SE</publisher>
+<category>無料 アクションゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.ig.supermarket.manager.simulator/</link>
+<title>Manage Supermarket Simulator</title>
+<summary>スーパーマーケットのオーナーとなり、商品の在庫確認や発注、販売などを行い店舗を拡大していく、スーパー運営シミュレーター。</summary>
+<publisher>Zego Studio</publisher>
+<category>無料 シミュレーション</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/air.com.buffalo_studios.newflashbingo/</link>
+<title>BINGO BLITZ™️ - ビンゴゲーム</title>
+<summary>BINGO BLITZで世界一周</summary>
+<publisher>Playtika Santa Monica</publisher>
+<category>無料 カジノゲーム</category>
+</article>
+
+<article>
+<link>https://applion.jp/android/app/com.playgendary.kickthebuddy/</link>
+<title>Kick the Buddy</title>
+<summary>Kick the Buddy が帰ってきました！</summary>
+<publisher>Playgendary Limited</publisher>
+<category>無料 アクションゲーム</category>
+</article>
